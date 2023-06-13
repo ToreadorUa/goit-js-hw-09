@@ -1,0 +1,40 @@
+.input-date {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: large;
+
+}
+
+.buttons {
+    width: fit-content;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+button {
+    cursor: pointer;
+    height: 30px;
+    width: 70px;
+    margin: 10px;
+}
+.timer{
+width: fit-content;
+display: flex;
+border: 2px outset;
+gap: 40px;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size:larger;
+}
+.field{
+    display: flex;
+    
+    flex-direction: column-reverse;
+    justify-content: center;
+}
+.value{
+    font-size: 50px;
+}
